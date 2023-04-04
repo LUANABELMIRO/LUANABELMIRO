@@ -1,5 +1,5 @@
 - 👋 Olá, Sou a Luana Belmiro
-- 🌱 Estudante de Programação focada em front-end - HTML, CSS e JS
+- 🌱 Front End
 
 <div align="center">
   <a href="https://github.com/LUANABELMIRO">
