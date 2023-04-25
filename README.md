@@ -1,5 +1,5 @@
 - 👋 Olá, Sou a Luana Belmiro
-- 🌱 Front End
+- 🌱 Front End Jr
 
 <div align="center">
   <a href="https://github.com/LUANABELMIRO">
