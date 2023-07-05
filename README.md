@@ -1,5 +1,6 @@
 - 👋 Olá, Sou a Luana Belmiro
 - 🌱 Front End Jr
+- Graduando em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/LUANABELMIRO">
