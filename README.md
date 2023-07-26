@@ -1,6 +1,6 @@
  👋 Olá, Sou a Luana Belmiro
  🌱 Front End Jr
-Análise e Desenvolvimento de Sistemas
+ 💻 Análise e Desenvolvimento de Sistemas
 
 ##
 
