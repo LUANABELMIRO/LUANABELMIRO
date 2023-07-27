@@ -1,15 +1,25 @@
- 👋 Olá, Sou a Luana Belmiro
- 🌱 Front End Jr
- 💻 Análise e Desenvolvimento de Sistemas
+## Olá, eu sou Lu! 😊
 
-##
+[![Linkedin Badge](https://img.shields.io/badge/-Luana%20Belmiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanabelmiro/)](https://www.linkedin.com/in/luanabelmiro/) 
+[![Gmail Badge](https://img.shields.io/badge/-luanag.belmiro@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:luanag.belmiro@gmail.com)
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h4>Sobre mim:</h4>
+- 💻- Apaixonada por Desenvolvimento Web, especialmente por Front-end;<br />
+- 📍- Sou de Sapuacaia do Sul/RS<br />
+- 📚 - Graduando Análise e Desenvolvimento de Sistemas;<br />
+
+<h4>Linguagens e ferramentas:</h4>
+<div style="display: inline_block">
+  <img alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<!--   <img alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
+<!--   <img alt="Tailwind" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
+  <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<!--   <img alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> -->
 </div>
+
 
 ##
 
