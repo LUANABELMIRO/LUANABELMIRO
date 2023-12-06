@@ -4,9 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-luanag.belmiro@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:luanag.belmiro@gmail.com)
 
 <h4>Sobre mim:</h4>
-- 💻- Apaixonada por Desenvolvimento Web, especialmente por Front-end;<br />
-- 📍- Sou de Sapuacaia do Sul/RS<br />
 - 📚 - Graduando Análise e Desenvolvimento de Sistemas;<br />
+- 📍- Sou de Sapuacaia do Sul/RS<br />
 
 <h4>Linguagens e ferramentas:</h4>
 <div style="display: inline_block">
