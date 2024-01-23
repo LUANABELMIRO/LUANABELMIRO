@@ -1,11 +1,13 @@
 ## Olá, eu sou Lu! 😊
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luana%20Belmiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanabelmiro/)](https://www.linkedin.com/in/luanabelmiro/) 
-[![Gmail Badge](https://img.shields.io/badge/-luanag.belmiro@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:luanag.belmiro@gmail.com)
+<div align="center">
+<a href="https://linkedin.com/in/luanabelmiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luanabelmiro" height="20" width="30" /></a>
+</div>
 
 <h4>Sobre mim:</h4>
 - 📚 - Graduando Análise e Desenvolvimento de Sistemas;<br />
 - 📍- Sou de Sapuacaia do Sul/RS<br />
+- 📧 - luanag.belmiro@gmail.com
 
 <h4>Linguagens e ferramentas:</h4>
 <div style="display: inline_block">
