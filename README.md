@@ -6,7 +6,7 @@
 
 <h4>Sobre mim:</h4>
 - 📚 - Graduando Análise e Desenvolvimento de Sistemas;<br />
-- 📍- Sou de Sapuacaia do Sul/RS<br />
+- 📍- Sou de Sapucaia do Sul/RS<br />
 - 📧 - luanag.belmiro@gmail.com
 
 <h4>Linguagens e ferramentas:</h4>
